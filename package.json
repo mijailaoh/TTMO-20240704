@@ -1,0 +1,14 @@
+{
+  "name": "ttmo-20240704",
+  "version": "1.0.0",
+  "description": "Test Tecnico ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Mijail Osorio",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
