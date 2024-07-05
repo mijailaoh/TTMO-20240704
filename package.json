@@ -4,7 +4,8 @@
   "description": "Test Tecnico ",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run"
+    "test:cypress": "npx cypress run --headed",
+    "test:k6": "k6 run k6/petstore.js"
   },
   "author": "Mijail Osorio",
   "license": "ISC",
