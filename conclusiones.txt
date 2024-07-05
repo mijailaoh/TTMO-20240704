@@ -1,0 +1,7 @@
+1. Duración de las solicitudes HTTP: El 95% de las solicitudes HTTP tuvieron una duración menor a 156.1 ms, cumpliendo con el umbral establecido de p(95)<500 ms.
+2. Número de solicitudes y tasa: Se realizaron un total de 12,870 solicitudes HTTP a lo largo de la ejecución, con una tasa promedio de aproximadamente 21.4 solicitudes por segundo.
+3. Éxito de las verificaciones: Todas las verificaciones de estado (status is 200) pasaron exitosamente, con 12,870 pases y 0 fallos.
+4. Uso de recursos: Durante la prueba, se enviaron aproximadamente 1,005,906 bytes de datos y se recibieron alrededor de 58,486,491 bytes.
+5. VUs (Virtual Users): Se usaron hasta un máximo de 20 VUs durante la prueba, con un promedio de 5 VUs y un máximo de 19 VUs simultáneamente activos.
+6. Rendimiento: La duración promedio de las solicitudes fue de aproximadamente 132.75 ms, con un tiempo de espera promedio de 132.49 ms y un tiempo de bloqueo promedio de 0.50 ms.
+
