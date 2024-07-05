@@ -6,6 +6,7 @@ Test Tecnico para Api openweathermap usando Cypress y test performance usando K6
 2. ir al folder del projectos
 3. ejecutar npm install
 4. verificar que tiene instalado k6 en su maquina https://k6.io/docs/get-started/installation/ 
+5. configure la key de openweathermap en el archivo cypress.config.js
 
 # Run Test
 - Cypress
